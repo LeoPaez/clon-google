@@ -10,7 +10,7 @@ const Nav = () => {
           <Flex spacing="2" flexDirection="row" alignItems="center" gap="4" padding="4" fontSize="13px">
             <Link color="white">Gmail</Link>
             <Link color="white">Imágenes</Link>
-            <Img src={iconoNav} p="8px" borderRadius="50%" cursor="pointer" _hover={{ bgColor: "rgba(232, 234, 237, 0.1)" }} />
+            <Img src={iconoNav} p="8px" borderRadius="50%" cursor="pointer" _hover={{ bgColor: "rgba(232, 234, 237, 0.1)" }} alt="Te amo Luna 🐕❤🐾" />
             <Avatar size="sm" src={iconoAvatar} cursor="pointer" />
           </Flex>
       </Flex>
