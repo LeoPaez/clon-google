@@ -1,3 +1,5 @@
+# Clon de Google
+Creado con React y Chakra UI para el estilado.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
